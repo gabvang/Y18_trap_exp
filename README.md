@@ -1,2 +1,2 @@
 # Y18_trap_exp
-Experiment evaluating trap comparison of female NOW preference for egg laying
+An evaluation of trap preference in female NOW  for egg laying
